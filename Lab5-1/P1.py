@@ -1,3 +1,8 @@
+""" 
+Darin Khamsawat
+683040489-2
+P1
+"""
 import tkinter as tk
 from tkinter import ttk
 

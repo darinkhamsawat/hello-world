@@ -1,3 +1,8 @@
+""" 
+Darin Khamsawat
+683040489-2
+P1
+"""
 import sys
 import os
 from PySide6.QtWidgets import (

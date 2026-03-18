@@ -1,3 +1,8 @@
+""" 
+Darin Khamsawat
+683040489-2
+P2
+"""
 import sys
 import math
 from PySide6.QtWidgets import (
